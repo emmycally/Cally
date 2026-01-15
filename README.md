@@ -9,3 +9,4 @@ This is the latest with token
 This is the latest with token from main cally dir
 >>>>>>> bc6c0e3 (Update README)
 Another via SSH
+Input via SSH
